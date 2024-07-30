@@ -9,3 +9,7 @@ body{
 img{ 
     position: relative;
 }
+p{
+    font-weight: bolder;
+    float: right;
+}
